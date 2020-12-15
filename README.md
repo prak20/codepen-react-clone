@@ -1,5 +1,4 @@
-### Note: 
-Current Project is not Responsive
+**Note: Current Project is not Responsive**
 
 # Getting Started with Create React App
 
