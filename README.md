@@ -1,4 +1,4 @@
-##Note:
+## Note
 Current Project is not Responsive
 
 # Getting Started with Create React App
