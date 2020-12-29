@@ -7,7 +7,7 @@ body {
 .top-pane{
   background-color: #343555;
   border-style: ridge;
-  border-width: 6px;
+  border-width: 3px;
   border-color: rgb(243, 106, 72);
 }
 .pane{
@@ -19,12 +19,12 @@ body {
 }
 .output, .coder{
   border-style: ridge;
-  border-width: 6px;
+  border-width: 3px;
   border-color: coral; 
   text-align: center;
   text-transform: capitalize;
   font-size: larger;
-  font-weight: bold; 
+  font-weight: bold;
 }
 .editor-container{
   flex-grow: 1;
@@ -56,6 +56,7 @@ body {
   padding: .5rem .5rem .5rem 1rem;
   border-top-right-radius: .5rem;
   border-top-left-radius: .5rem;
+
 }
 .CodeMirror {
   height: 100% !important;

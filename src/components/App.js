@@ -25,7 +25,7 @@ const App = () => {
 
   return (
     <>
-     <div className="coder">🤠 CODE EDITOR 🧐
+    <div className="coder">🤠 CODE EDITOR 🧐
     </div>
     <div className="pane top-pane">
       <Editor language="xml" displayName="HTML" value={html} onChange={setHtml}/>
